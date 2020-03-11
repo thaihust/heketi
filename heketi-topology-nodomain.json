@@ -6,7 +6,7 @@
                     "node": {
                         "hostnames": {
                             "manage": [
-                                "192.168.2.206"
+                                "cloudrity-hht-lab01"
                             ],
                             "storage": [
                                 "192.168.2.206"
@@ -22,7 +22,7 @@
                     "node": {
                         "hostnames": {
                             "manage": [
-                                "192.168.2.207"
+                                "cloudrity-hht-lab02"
                             ],
                             "storage": [
                                 "192.168.2.207"
@@ -38,7 +38,7 @@
                     "node": {
                         "hostnames": {
                             "manage": [
-                                "192.168.2.208"
+                                "cloudrity-hht-lab03"
                             ],
                             "storage": [
                                 "192.168.2.208"

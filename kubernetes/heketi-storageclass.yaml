@@ -4,8 +4,8 @@ metadata:
   name: slow
 provisioner: kubernetes.io/glusterfs
 parameters:
-  resturl: "https://heketi-api.example.com"
-  clusterid: "c74a31fd441a8561c2b811528a2df3df"
+  resturl: "http://192.168.2.206:31234"
+  clusterid: "3aab72ca4b5589c52af816074f07348e"
   restuser: "admin"
   secretNamespace: "default"
   secretName: "heketi-secret"

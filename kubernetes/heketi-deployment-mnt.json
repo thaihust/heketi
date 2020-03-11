@@ -144,13 +144,13 @@
               {
                 "name": "heketi-ssh-key",
                 "hostPath": {
-                  "path": "/data/heketi/.ssh"
+                  "path": "/mnt/heketi/.ssh"
                 }
               },
               {
                 "name": "heketi-db",
                 "hostPath": {
-                  "path": "/data/heketi/db"
+                  "path": "/mnt/heketi/db"
                 }
               }
             ]
